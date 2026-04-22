@@ -40,8 +40,8 @@ This project analyses and compares the profitability performance of two leading 
 - Only two companies are included; industry-wide comparison is not provided.
 
 ## 8. Product & Demo Links
-- GitHub Repository: [Your Repo Link]
-- Demo Video: [Your Video Link]
+- GitHub Repository: https://github.com/yahan2424/ACC102-MiniAssignment-2473645.git
+- Demo Video: 
 
 ## 9. AI Disclosure
 - AI Tool: Doubao (Seed Model),DeepSeek,QianWen
